@@ -12,10 +12,7 @@ const whatToDoForLunch = function(hungry, availableTime) {
   }
 }
 
-/*
- * This is some test runner code that's simply calling our whatToDoForLunch function
- * defined above to verify we're making the right decisions. Do not modify it!
- */
+
 
 console.log("I'm hungry and I have 20 minutes for lunch.");
 whatToDoForLunch(true, 20);
